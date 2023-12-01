@@ -1,3 +1,10 @@
+## 0.0.9
+
+- Add `--[no-]-parent option`.
+- Allow importing it inside a Dart/Flutter project.
+- Allow passing project id via environment.
+- Upgrade dependencies.
+
 ## 0.0.8
 
 - Add `--fix` option.
